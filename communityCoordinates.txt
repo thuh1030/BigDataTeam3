@@ -1,0 +1,77 @@
+Rogers Park,42.0100,-87.6700
+West Ridge,42.000,-87.6900
+Uptown,41.9700,-87.6600
+Lincoln Square,41.9700,-87.6900
+North Center,41.950,-87.6800
+Lake View,41.9435200,-87.65410200
+Lincoln Park,41.9200,-87.650
+Near North Side,41.900,-87.6300
+Edison Park,42.0100,-87.8100
+Norwood Park,41.9800,-87.8000
+Jefferson Park,41.9800,-87.7700
+Forest Glen,41.983,-87.750
+North Park,41.9500,-87.6800
+Albany Park,41.9700,-87.7200
+Portage Park,41.950,-87.7600
+Irving Park,41.950,-87.7300
+Dunning,41.950,-87.8100
+Montclaire,41.9300,-87.800
+Belmont Cragin,41.9300,-87.7600
+Hermosa,41.9200,-87.7300
+Avondale,41.9400,-87.7100
+Logan Square,41.9283,-87.7067
+Humboldt Park,41.8800,-87.700
+West Town,41.900,-87.6800
+Austin,41.900,-87.7600
+West Garfield Park,41.8800,-87.7300
+East Garfield Park,41.8800,-87.700
+Near West Side,41.8700,-87.6700
+North Lawndale,41.8600,-87.7100
+South Lawndale,41.8500,-87.7100
+Lower West Side,41.850,-87.6600
+Loop,41.883,-87.633
+Near South Side,41.8500,-87.6200
+Armour Square,41.8333,-87.6333
+Douglas,41.8300,-87.6200
+Oakland,41.8200,-87.6000
+Fuller Park,41.8100,-87.6267
+Grand Boulevard,41.8100,-87.6200
+Kenwood,41.8100,-87.6000
+Washington Park,41.7900,-87.6200
+Hyde Park,41.800,-87.5900
+Woodlawn,41.7800,-87.600
+South Shore,41.7600,-87.5800
+Chatham,41.74000,-87.61167
+Avalon Park,41.750,-87.5900
+South Chicago,41.7400,-87.550
+Burnside,41.7300,-87.600
+Calumet Heights,41.72833,-87.57972
+Roseland,41.7100,-87.6200
+Pullman,41.7100,-87.6200
+South Deering,41.7100,-87.5600
+East Side,41.7000,-87.5600
+West Pullman,41.6800,-87.6300
+Riverdale,41.6600,-87.6100
+Hegewisch,41.6600,-87.5500
+Garfield Ridge,41.8167,-87.7600
+Archer Heights,41.8100,-87.7300
+Brighton Park,41.8200,-87.7000
+McKinley Park,41.8300,-87.6700
+Bridgeport,41.8400,-87.6500
+New City,41.8100,-87.6600
+West Elsdon,41.7900,-87.7200
+Gage Park,41.7900,-87.6900
+Clearing,41.7800,-87.7600
+West Lawn,41.7700,-87.7200
+Chicago Lawn,41.7700,-87.6900
+West Englewood,41.7800,-87.6700
+Englewood,41.7797861,-87.644778
+Greater Grand Crossing,41.7600,-87.6100
+Ashburn,41.7500,-87.7100
+Auburn Gresham,41.7400,-87.6600
+Beverly,41.7100,-87.6800
+Washington Height,41.7200,-87.6500
+Mount Greenwood,41.7000,-87.7100
+Morgan Park,41.6900,-87.6700
+O'Hare,42.0000,-87.9200
+Edgewater,41.9900,-87.6600
